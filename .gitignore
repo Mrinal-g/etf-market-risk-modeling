@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.jupyter/
+
+# Results (auto-generated — not committed)
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# R (legacy — no longer used)
+*.Rproj
+*.RData
+*.Rhistory
+.Rproj.user/
