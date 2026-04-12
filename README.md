@@ -42,11 +42,9 @@ End-to-end market-risk workflow for an ETF portfolio — from raw price data thr
 ```
 fe535-etf-risk-modeling/
 ├── etf_market_risk_notebook.ipynb   ← Main analysis notebook
-├── etf_market_risk_report.docx      ← Formal project report
+├── etf_market_risk_report.pdf       ← Formal project report (PDF)
 ├── etf_prices.csv                   ← Daily adjusted closes, 30 ETFs
-├── results/
-│   ├── figures/                     ← Charts (auto-created on run)
-│   └── tables/                      ← CSV outputs (auto-created on run)
+├── results/                         ← Generated outputs (figures, tables) (created on run)
 ├── .gitignore
 └── README.md
 ```
